@@ -1,4 +1,3 @@
-![ideogram (9)](https://github.com/sujal231/sujal231/assets/115794420/b68df336-0f32-4e57-ac99-9d1814b9f215)
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 <h3 align="center">I am Android developer</h3>
 
