@@ -1,3 +1,4 @@
+![logo](https://ideogram.ai/api/images/direct/YFCU8m-2SOufFXOMf1-fKw)
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 <h3 align="center">I am Android developer</h3>
 
