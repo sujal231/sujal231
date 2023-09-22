@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **diploma in computer engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujal231](https://github.com/sujal231)
-
 - 📫 How to reach me **kotadiyasujal6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
